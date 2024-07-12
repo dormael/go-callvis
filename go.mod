@@ -18,5 +18,5 @@ require (
 )
 
 replace (
-	github.com/dormael/go-callvis => github.com/ofabry/go-callvis
+	github.com/dormael/go-callvis => github.com/ofabry/go-callvis v0.7.2
 )
